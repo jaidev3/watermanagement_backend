@@ -28,7 +28,7 @@ c=second ratio
     "c":1
 } 
 
-to add guest use below formet
+to add guest use below format
 
 {
     "guests":5
