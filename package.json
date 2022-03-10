@@ -4,7 +4,7 @@
   "description": "",
   "main": "geektrust.js",
   "scripts": {
-    "start": "nodemon geektrust.js",
+    "start": "node geektrust.js",
     "test": "mocha"
   },
   "dependencies": {
