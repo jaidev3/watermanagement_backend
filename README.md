@@ -43,7 +43,7 @@ Costs
 9. The command BILL can be executed only once, which is at the end of the month. It should be a part of the input set.
       <hr> 
        
- ### Result Snap:- 
+<!--  ### Result Snap:-  -->
 <!--       <img width="600" alt="Img1" src="https://user-images.githubusercontent.com/91541289/158745807-589ec606-3be4-4eb6-a0f2-85f25a567c94.png">
       
       <br> 
